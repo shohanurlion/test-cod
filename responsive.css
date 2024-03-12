@@ -1,0 +1,133 @@
+@media (min-width: 992px){
+    .text-lg-left {
+        text-align: left !important;
+    }
+}
+@media (max-width:767px){
+/* Banner part responsive start */
+.wapper .dynamic-texts {
+    height: 30px;
+    line-height: 30px;
+}
+.wapper .dynamic-texts li {
+    font-size: 23px;
+}
+#banner .display-5 {
+    font-size: 2.5rem;
+    font-weight: 900;
+    line-height: 1.2;
+}
+/* Banner part responsive end */
+
+/* About part responsive start */
+#about .display-1 {
+    visibility: hidden;
+    font-size: 5rem !important;
+    font-weight: 900 !important;
+}
+.py-5 {
+    padding-top: 0rem !important;
+    padding-bottom: 3rem !important;
+}
+#about h1 {
+    font-size: 2.5rem;
+}
+/* About part responsive end */
+
+/* EDUCATION part responsive start */
+#education .display-1 {
+    visibility: hidden;
+    font-size: 4rem !important;
+    font-weight: 900 !important;
+}
+#education h1 {
+    font-size: 2.5rem;
+}
+/* EDUCATION part responsive end */
+
+/* skills part responsive start */
+#skill .display-1 {
+    visibility: hidden;
+    font-size: 5rem !important;
+    font-weight: 900 !important;
+}
+#skill h1 {
+    font-size: 2.5rem;
+}
+/* skills part responsive end */
+
+/* SERVICES part responsive start */
+#service .display-1 {
+    visibility: hidden;
+    font-size: 4rem !important;
+    font-weight: 900 !important;
+}
+#service h1 {
+    font-size: 2.5rem;
+}
+/* SERVICES part responsive end */
+
+/* PORTFOLIO part responsive start */
+
+#portfolio .display-1 {
+    visibility: hidden;
+    font-size: 4rem !important;
+    font-weight: 900 !important;
+}
+#portfolio h1 {
+    font-size: 2.5rem;
+}
+/* PORTFOLIO part responsive end */
+
+/* REVIEW part responsive start */
+#review .display-1 {
+    visibility: hidden;
+    font-size: 5rem !important;
+    font-weight: 900 !important;
+}
+#review h1 {
+    font-size: 2.5rem;
+}
+/* REVIEW part responsive end */
+
+/* Blog part responsive start */
+#blog .display-1 {
+    visibility: hidden;
+    font-size: 7rem !important;
+    font-weight: 900 !important;
+}
+#blog h1 {
+    font-size: 2.5rem;
+}
+/* Blog part responsive end */
+
+/* Team part responsive start */
+#team .display-1 {
+    visibility: hidden;
+    font-size: 2rem !important;
+    font-weight: 900 !important;
+}
+#team h1 {
+    font-size: 2.5rem;
+}
+
+/* Team part responsive end */
+
+/* CONTACT part responsive start */
+#contact .display-1 {
+    visibility: hidden;
+    font-size: 4rem !important;
+    font-weight: 900 !important;
+}
+#contact h1 {
+    font-size: 2.5rem;
+}
+/* CONTACT part responsive end */
+
+}
+@media (min-width:992px) and (max-width:1199px){
+
+}
+@media (min-width:1200px) and (max-width:1399px){
+
+}
